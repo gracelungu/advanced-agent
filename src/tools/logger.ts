@@ -1,0 +1,1 @@
+// Logging utility for events, errors, and system information.
