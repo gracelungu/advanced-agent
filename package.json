@@ -1,0 +1,30 @@
+{
+    "name": "advanced-agent",
+    "version": "1.0.0",
+    "description": "A Node.js project with TypeScript support",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node src/index.ts",
+        "build": "tsc",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gracelungu/advanced-agent.git"
+    },
+    "author": "Grace Lungu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gracelungu/advanced-agent/issues"
+    },
+    "homepage": "https://github.com/gracelungu/advanced-agent#readme",
+    "devDependencies": {
+        "typescript": "^4.0.0",
+        "ts-node": "^9.0.0",
+        "jest": "^26.0.0",
+        "eslint": "^7.0.0",
+        "prettier": "^2.0.0",
+        "@types/jest": "^26.0.0",
+        "@types/node": "^14.0.0"
+    }
+}
